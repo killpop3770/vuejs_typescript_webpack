@@ -1,0 +1,8 @@
+.tile{
+    height: 500pt;
+    width: 1500pt;
+    background-color: gray;
+    border-radius: 15pt;
+    border-width: 1pt;
+
+}
